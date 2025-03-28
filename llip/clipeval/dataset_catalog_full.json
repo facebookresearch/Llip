@@ -1,0 +1,120 @@
+{
+    "CIFAR10": {
+        "path": "/path/to/cifar10",
+        "type": "special"
+    },
+    "CIFAR100": {
+        "path": "/path/to/cifar100",
+        "type": "special"
+    },
+    "Food101": {
+        "path": "/path/to/food101",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "CUB200": {
+        "path": "/path/to/cub200",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "val"
+    },
+    "StanfordCars": {
+        "path": "/path/to/cars",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "FGVCAircraft": {
+        "path": "/path/to/aircraft",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "DescribableTextures": {
+        "path": "/path/to/dtd",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "OxfordPets": {
+        "path": "/path/to/pets",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "Caltech101": {
+        "path": "/path/to/caltech101",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "Flowers102": {
+        "path": "/path/to/flowers",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "MNIST": {
+        "path": "/path/to/mnist",
+        "type": "special"
+    },
+    "imagenet": {
+        "path": "/path/to/imagenet/",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "val"
+    },
+    "STL10": {
+        "path": "/path/to/stl10",
+        "type": "special"
+    },
+    "EuroSAT": {
+        "path": "/path/to/eurosat",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "val"
+    },
+    "RESISC45": {
+        "path": "/path/to/resisc45",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "GTSRB": {
+        "path": "/path/to/gtsrb",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "KITTI": {
+        "path": "/path/to/kitti_distance",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "val"
+    },
+    "Country211": {
+        "path": "/path/to/country211",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "PatchCamelyon": {
+        "path": "/path/to/patch_camelyon",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "val"
+    },
+    "UCF101": {
+        "path": "/path/to/ucf101_frames",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "val"
+    },
+    "SST2": {
+        "path": "/path/to/rendered_sst2",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    }
+}

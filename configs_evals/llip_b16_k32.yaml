@@ -1,0 +1,5 @@
+eval_name: metaclip_evals
+mc_config_name: llip_b16_k32_12_node
+checkpoint_path: /path/to/logs/llip/llip_b16_k32_12_node/checkpoints/epoch_latest.pt
+output_dir: ./logs/llip_b16_k32_12_node
+catalog_name: dataset_catalog_full.json

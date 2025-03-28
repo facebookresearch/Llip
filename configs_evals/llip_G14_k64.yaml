@@ -1,0 +1,5 @@
+eval_name: metaclip_evals
+mc_config_name: llip_G14_k64
+checkpoint_path: /path/to/logs/llip/llip_G14_k64/checkpoints/epoch_latest.pt
+output_dir: ./logs/eval_G14_k64
+catalog_name: dataset_catalog_full.json
